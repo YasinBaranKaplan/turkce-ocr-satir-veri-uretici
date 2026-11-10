@@ -1,0 +1,15 @@
+# Python environments and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Generated test/output files
+*.pdf
+
+# macOS metadata
+.DS_Store
